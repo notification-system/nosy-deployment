@@ -1,0 +1,9 @@
+{
+    "iam_realm_name": "nosy-realm",
+    "iam_realm_admin_username": "realm-admin",
+    "iam_realm_admin_password": "1234",
+    "iam_client_name": "nosy-cli",
+    "iam_client_role_name": "nosy-role",
+    "iam_realms_url": "http://localhost:8080/auth/admin/realms",
+    "iam_master_token_url": "http://localhost:8080/auth/realms/master/protocol/openid-connect/token"
+}
